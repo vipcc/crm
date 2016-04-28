@@ -1,0 +1,86 @@
+#container {
+    margin: 0 auto;
+    background: #FFFFFF;
+    overflow: hidden;
+}
+
+#s_tabs {
+    position:relative; border:3px solid #7AAAFF;  border-collapse:collapse;
+}
+
+.div-tab {
+    padding: 0;
+    overflow: hidden;
+}
+
+#part_div {
+    float: right;
+}
+
+.table-head {
+    width: 100%;
+    border: 1px solid grey;
+    text-align: left;
+}
+.table-data {
+    width: 100%;
+}
+
+.table-data tr:hover {
+    cursor: inherit;
+    background-color: #B1E6AE;
+}
+
+.td_cursor {
+    background-color: #79A5F7;
+    font-weight: bold;
+
+}
+
+.div-table-data {
+    margin-top: 5px;
+    overflow-y: auto;
+}
+.toolbar {
+    margin: 10px 5px 0px 5px;
+    font-size: 12px;
+}
+
+.btn-add {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.btn-edit {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.btn-delete {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+ .dialog {
+     font-size: 12px;
+ }
+
+.menu-tabs {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.table-head {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+ .table-data {
+     font-size: 14px;
+ }
+
+ .total {
+     font-size: 14px;
+     font-weight: bold;
+     color: #204060;
+ }
